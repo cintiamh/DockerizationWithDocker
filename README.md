@@ -1,5 +1,9 @@
 # DockerizationWithDocker
+
 Learning path notes.
+
+* [Getting Started with Docker](#getting-started-with-docker)
+* [Docker - A Better Way to Build Apps](better-way.md)
 
 ## Getting Started with Docker
 
